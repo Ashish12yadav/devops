@@ -1,0 +1,11 @@
+{
+	"name": "ls_ci_cd_demo_kv",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://devv-ci-cd-demo-kv.vault.azure.net/"
+		}
+	}
+}

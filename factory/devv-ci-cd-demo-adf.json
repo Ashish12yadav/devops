@@ -1,0 +1,9 @@
+{
+	"name": "devv-ci-cd-demo-adf",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9a12fcbb-abe6-40ef-8d5a-017b80757d5a",
+		"tenantId": "1b70a6d4-73d5-41c5-995c-66a3feee7c25"
+	}
+}
